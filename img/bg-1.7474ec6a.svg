@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1600" height="390" viewBox="0 0 1600 390">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Placeholder" width="1600" height="390" transform="translate(-3436 -11367)" fill="#fff" opacity="0.76"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.049" y1="0.524" x2="1" y2="0.485" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#a57af0"/>
+      <stop offset="1" stop-color="aqua"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" x2="0.5" y2="0.905" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g id="bg-1" transform="translate(3436 11367)" clip-path="url(#clip-path)">
+    <rect id="Placeholder-2" data-name="Placeholder" width="1600" height="390" transform="translate(-3436 -11367)" opacity="0.09" fill="url(#linear-gradient)"/>
+    <rect id="Rectángulo_399061" data-name="Rectángulo 399061" width="1600" height="100" transform="translate(-3436 -11367)" fill="url(#linear-gradient-2)"/>
+    <path id="Trazado_866122" data-name="Trazado 866122" d="M0,22.252a5.387,5.387,0,0,0,5.383,5.38H16.86V39.1a5.383,5.383,0,0,0,10.766,0V27.631H39.1a5.38,5.38,0,1,0,0-10.759H27.627V5.4a5.383,5.383,0,0,0-10.766,0V16.872H5.382A5.387,5.387,0,0,0,0,22.252Zm17.759-3.586a.9.9,0,0,0,.9-.9V5.4a3.589,3.589,0,0,1,7.177,0V17.768a.9.9,0,0,0,.9.9H39.1a3.586,3.586,0,1,1,0,7.173H26.729a.9.9,0,0,0-.9.9V39.1a3.589,3.589,0,0,1-7.177,0V26.735a.9.9,0,0,0-.9-.9H5.382a3.586,3.586,0,1,1,0-7.173Z" transform="translate(-3347.487 -11078.66) rotate(45)" fill="#bad1ff" fill-rule="evenodd"/>
+    <path id="Trazado_866123" data-name="Trazado 866123" d="M0,22.252a5.387,5.387,0,0,0,5.383,5.38H16.86V39.1a5.383,5.383,0,0,0,10.766,0V27.631H39.1a5.38,5.38,0,1,0,0-10.759H27.627V5.4a5.383,5.383,0,0,0-10.766,0V16.872H5.382A5.387,5.387,0,0,0,0,22.252Zm17.759-3.586a.9.9,0,0,0,.9-.9V5.4a3.589,3.589,0,0,1,7.177,0V17.768a.9.9,0,0,0,.9.9H39.1a3.586,3.586,0,1,1,0,7.173H26.729a.9.9,0,0,0-.9.9V39.1a3.589,3.589,0,0,1-7.177,0V26.735a.9.9,0,0,0-.9-.9H5.382a3.586,3.586,0,1,1,0-7.173Z" transform="translate(-1915.487 -11337.66) rotate(45)" fill="#bad1ff" fill-rule="evenodd"/>
+  </g>
+</svg>

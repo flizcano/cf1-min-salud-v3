@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1600" height="934" viewBox="0 0 1600 934">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Trazado_862578" data-name="Trazado 862578" d="M0,16H1600V850.534s-185.948,40.862-313.807,36.639c-126.358-4.223-369.308-52.229-490.741-73.445-119.928-21.218-318.815-48.8-402.274-49.157C309.718,765.713,107.855,774.518,0,833.758.389,818.19,0,16,0,16Z" transform="translate(0 17496.268)" fill="#f2f6ff" clip-rule="evenodd"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.049" y1="0.524" x2="1" y2="0.485" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#a57af0"/>
+      <stop offset="1" stop-color="aqua"/>
+    </linearGradient>
+  </defs>
+  <g id="bg-3" transform="translate(0 -1463)">
+    <g id="Enmascarar_grupo_1078772" data-name="Enmascarar grupo 1078772" transform="translate(0 -16049.266)" clip-path="url(#clip-path)">
+      <path id="Placeholder" d="M0,0H1600V1601H0Z" transform="translate(0 17316)" opacity="0.13" fill="url(#linear-gradient)"/>
+    </g>
+    <rect id="Rectángulo_400220" data-name="Rectángulo 400220" width="1600" height="934" transform="translate(0 1463)" fill="none"/>
+  </g>
+</svg>

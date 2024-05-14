@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1604" height="1220" viewBox="0 0 1604 1220">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_401944" data-name="Rectángulo 401944" width="1604" height="814" transform="translate(0 14432)" fill="#12263f"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_1104403" data-name="Grupo 1104403" transform="translate(7800 -7400)">
+    <g id="Grupo_1104402" data-name="Grupo 1104402" transform="translate(-7800 -6626)">
+      <rect id="Rectángulo_401945" data-name="Rectángulo 401945" width="1604" height="814" transform="translate(0 14432)" fill="#f2f6ff"/>
+      <g id="Enmascarar_grupo_1078934" data-name="Enmascarar grupo 1078934" clip-path="url(#clip-path)">
+        <path id="Trazado_873875" data-name="Trazado 873875" d="M0,22.231a5.387,5.387,0,0,0,5.383,5.38H16.861V39.081a5.383,5.383,0,0,0,10.766,0V27.61H39.1a5.38,5.38,0,1,0,0-10.759H27.628V5.38a5.383,5.383,0,0,0-10.766,0V16.851H5.383A5.387,5.387,0,0,0,0,22.231Zm17.759-3.586a.9.9,0,0,0,.9-.9V5.38a3.589,3.589,0,0,1,7.177,0V17.747a.9.9,0,0,0,.9.9H39.1a3.586,3.586,0,1,1,0,7.173H26.73a.9.9,0,0,0-.9.9V39.081a3.589,3.589,0,0,1-7.177,0V26.714a.9.9,0,0,0-.9-.9H5.383a3.586,3.586,0,1,1,0-7.173Z" transform="translate(99.582 15013.796) rotate(45)" fill="#7ea7f9" fill-rule="evenodd"/>
+        <path id="Trazado_873876" data-name="Trazado 873876" d="M0,22.252a5.387,5.387,0,0,0,5.383,5.38H16.86V39.1a5.383,5.383,0,0,0,10.766,0V27.631H39.1a5.38,5.38,0,1,0,0-10.759H27.627V5.4a5.383,5.383,0,0,0-10.766,0V16.872H5.382A5.387,5.387,0,0,0,0,22.252Zm17.759-3.586a.9.9,0,0,0,.9-.9V5.4a3.589,3.589,0,0,1,7.177,0V17.768a.9.9,0,0,0,.9.9H39.1a3.586,3.586,0,1,1,0,7.173H26.729a.9.9,0,0,0-.9.9V39.1a3.589,3.589,0,0,1-7.177,0V26.735a.9.9,0,0,0-.9-.9H5.382a3.586,3.586,0,1,1,0-7.173Z" transform="translate(1519.598 14704.254) rotate(45)" fill="#7ea7f9" fill-rule="evenodd"/>
+      </g>
+    </g>
+    <rect id="Rectángulo_404343" data-name="Rectángulo 404343" width="1604" height="406" transform="translate(-7800 7400)" fill="none"/>
+  </g>
+</svg>
